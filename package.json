@@ -1,0 +1,24 @@
+{
+  "name": "flappy-bird-with-javascript",
+  "version": "1.0.0",
+  "description": "Flappy Bird game with Javascript",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drdung1999/Flappy-Bird-with-Javascript.git"
+  },
+  "author": "Anthony Levi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drdung1999/Flappy-Bird-with-Javascript/issues"
+  },
+  "homepage": "https://github.com/drdung1999/Flappy-Bird-with-Javascript#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-ejs-extend": "0.0.1"
+  }
+}
